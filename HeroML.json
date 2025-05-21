@@ -1,0 +1,84 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Tigreal",
+      "role": "Tank",
+      "origin": "Moniyan Empire",
+      "class": "Durable / Initiator",
+      "Poster": "https://freeimage.host/i/3LtaiRn"
+    },
+    {
+      "no": "2",
+      "name": "Chou",
+      "role": "Fighter",
+      "origin": "Unknown (Kung Fu Boy)",
+      "class": "Initiator / Mobility",
+      "Poster": "https://freeimage.host/i/3Lt0NR9"
+    },
+    {
+      "no": "3",
+      "name": "Gatotkaca",
+      "role": "Tank / Fighter",
+      "origin": "Ancient Kingdom",
+      "class": "Crowd Control / Durable",
+      "Poster": "https://freeimage.host/i/3LtGeDX"
+    },
+    {
+      "no": "4",
+      "name": "Lylia",
+      "role": "Mage",
+      "origin": "Magic Academy",
+      "class": "Burst / Poke",
+      "Poster": "https://freeimage.host/i/3LtXRX1"
+    },
+    {
+      "no": "5",
+      "name": "Lancelot",
+      "role": "Assassin",
+      "origin": "Castle Aberleen",
+      "class": "Burst / Chase",
+      "Poster": "https://freeimage.host/i/3LtjuiF"
+    },
+    {
+      "no": "6",
+      "name": "Lesley",
+      "role": "Marksman",
+      "origin": "V.E.N.O.M Squad",
+      "class": "Reap / Burst",
+      "Poster": "https://freeimage.host/i/3LtNyAv"
+    },
+    {
+      "no": "7",
+      "name": "Gusion",
+      "role": "Assassin",
+      "origin": "House Paxley",
+      "class": "Magic Damage / Mobility",
+      "Poster": "https://freeimage.host/i/3LtkTF9"
+    },
+    {
+      "no": "8",
+      "name": "Nana",
+      "role": "Support / Mage",
+      "origin": "Magic Forest",
+      "class": "Crowd Control / Poke",
+      "Poster": "https://freeimage.host/i/3LtUHDG"
+    },
+    {
+      "no": "9",
+      "name": "Alucard",
+      "role": "Fighter / Assassin",
+      "origin": "Monastery of Light",
+      "class": "Lifesteal / Chase",
+      "Poster": "https://freeimage.host/i/3LtgkYP"
+    },
+    {
+      "no": "10",
+      "name": "Angela",
+      "role": "Support",
+      "origin": "Laboratory 1718",
+      "class": "Heal / Guard",
+      "Poster": "https://freeimage.host/i/3Lt4aJS"
+    }
+  ]
+}
